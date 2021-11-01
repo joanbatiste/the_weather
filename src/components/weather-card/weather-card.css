@@ -1,0 +1,15 @@
+.weather-card{
+    width: 150px;
+    height: 150px;
+}
+.five-days-forecast{
+    display: flex;
+    flex-direction: row;
+}
+.show-forecast{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.title-card{
+    margin-bottom: 20px;
+}

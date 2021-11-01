@@ -5,3 +5,15 @@
     width: 100px;
     height: 20px;
 }
+.show-weather{
+    display: flex;
+    justify-content: center;
+}
+.temps-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.p-20{
+    padding: 20px;
+}
