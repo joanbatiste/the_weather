@@ -19,7 +19,7 @@ const Home = (props) => {
             icon: "",
         }]
     });
-    
+    console.log(city);
 
     //handler
     const handlerState = (e) => {
